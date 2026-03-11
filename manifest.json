@@ -1,0 +1,9 @@
+{
+  "short_name": "IrisVision",
+  "name": "IrisVision — Analyse Iridologique IA",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#064e3b",
+  "background_color": "#022c22"
+}
